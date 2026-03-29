@@ -1,4 +1,4 @@
-#  E-Commerce Sales Analysis Dashboard | Power BI, DAX
+#  Amazon Sales Analysis Dashboard | Power BI, DAX
 
 Developed a **multi-page interactive Power BI dashboard** to analyze e-commerce sales data and generate actionable business insights across sales, operations, and product performance.
 
