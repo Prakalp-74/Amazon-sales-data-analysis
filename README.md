@@ -30,7 +30,7 @@ Developed a **multi-page interactive Power BI dashboard** to analyze e-commerce 
 
 ### 🔹 Tools & Technologies
 
-Power BI • DAX • Data Cleaning • Data Visualization
+• Python • Pandas • Power BI • DAX • Data Cleaning • Data Visualization
 
 ---
 
